@@ -34,9 +34,7 @@ main{
 .main__left{
   width: 60%;
 }
-.main__right h2{
 
-}
 .exp h2, .edu h2, .main__right h2{
   color: #a58828;
   margin: 10px 0;
